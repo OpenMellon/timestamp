@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/OpenMellon/openpdf/timestamp"
+	"github.com/OpenMellon/timestamp"
 )
 
 // ExampleCreateRequest demonstrates the creation of a time-stamp request, sending

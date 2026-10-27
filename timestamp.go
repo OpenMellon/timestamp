@@ -15,7 +15,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/OpenMellon/openpdf/pkcs7"
+	"github.com/OpenMellon/pkcs7"
 )
 
 // FailureInfo contains the result of an Time-Stamp request. See
