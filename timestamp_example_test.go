@@ -47,5 +47,4 @@ func ExampleCreateRequest() {
 	if len(tsResp.Certificates) > 0 {
 		fmt.Println(tsResp.Certificates[0].Subject)
 	}
-
 }
